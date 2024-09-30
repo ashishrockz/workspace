@@ -1,0 +1,18 @@
+*{ 
+    font-family: "Poppins", sans-serif;
+}
+.body{
+    margin: 0px;
+}
+header{
+    margin-bottom: 0px;
+}
+.navbar{
+    padding: 0px 98px;
+    background-color: #ffffff;
+}
+.navbar-nav{
+    width: 100%;
+    justify-content: end;
+    gap: 55px;
+}
