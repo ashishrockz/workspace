@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'task_management',
+    'authentication',
+    'hr_dashboard',
     'home'
 ]
 

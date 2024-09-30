@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class AuthuentcatonConfig(AppConfig):
+class AuthenticationConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'authuentcaton'
+    name = 'authentication'
